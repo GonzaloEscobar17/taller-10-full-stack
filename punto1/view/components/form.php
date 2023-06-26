@@ -11,7 +11,7 @@
                 type="text"
                 id="first-number"
                 name="first_number"
-                placeholder="5"
+                placeholder="Ingrese un numero"
 
             >
         </div>
@@ -24,7 +24,7 @@
                 type="text"
                 id="second-number"
                 name="second_number"
-                placeholder="5"
+                placeholder="Ingrese un numero"
 
             >
         </div>

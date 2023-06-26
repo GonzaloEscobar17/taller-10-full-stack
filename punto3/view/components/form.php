@@ -9,7 +9,7 @@
             type="text" 
             id="first-name" 
             name="first_name" 
-            placeholder="john">
+            placeholder="Nombre">
         </div>
         <label for="last-name">
             Apellidos del usuario:
@@ -18,7 +18,7 @@
         type="text" 
         id="last-name" 
         name="last_name" 
-        placeholder="Doe">
+        placeholder="Apellido">
         <div>
         <label for="id-number">
             Documento de identidad:
@@ -27,7 +27,7 @@
         type="text" 
         id="id-number" 
         name="id_number" 
-        placeholder="9.000.763">
+        placeholder="Documento">
         </div>
     </div>
     <button>Registrar</button>
