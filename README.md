@@ -2,6 +2,9 @@
 
 <h2>Informacíon</h2>
 <p>Curso: Full Stack Basico - Grupo 1</p>
+<p>Profesor: Cristian Patiño</p>
+<p>Nombre: Gonzalo Franch Escobar</p>
+
 
 <h2>Punto 1: Calculadora operaciones basicas </h2>
 <img src= "./public/images/punto1.png" alt="Calculadora">
