@@ -18,7 +18,7 @@
           <p>
             Punto 1: Operación de dos números
           </p> 
-          <a href="./punto-1">
+          <a href="./punto1">
             Punto 1 Demo
           </a>
         </li>
@@ -26,7 +26,7 @@
           <p>
             Punto 2: Calculo de Mayoría de Edad
           </p> 
-          <a href="./punto-2">
+          <a href="./punto2">
             Punto 2 Demo
           </a>
         </li>
@@ -34,7 +34,7 @@
           <p>
             Punto 3: Paso de datos del usuario
           </p>
-          <a href="./punto-3">
+          <a href="./punto3">
             Punto 3 Demo
           </a>
         </li>
@@ -42,7 +42,7 @@
           <p>
             Punto 4: Calculo de Mayoría de Edad con Fechas
           </p>
-          <a href="./punto-4">
+          <a href="./punto4">
             Punto 4 Demo
           </a>
         </li>
@@ -50,7 +50,7 @@
           <p>
             Punto 4 5 6: Proyecto conexión Base de datos
           </p>
-          <a href="./punto-5-6-7">
+          <a href="./punto5-6-7">
             Proyecto Demo
           </a>
         </li>
