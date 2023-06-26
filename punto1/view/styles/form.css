@@ -1,0 +1,10 @@
+.formu__row {
+    width: 100%;
+    margin: 5px 0px;
+    gap: 50px;
+    align-items: center;
+}
+
+select{
+    padding: 10px 10px;
+}
